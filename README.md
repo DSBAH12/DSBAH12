@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Abubakarr Adonis Bah</h1>
 <h3 align="center">Creative Software Engineer fueled by a strong enthusiasm for tech, delivering agile and impactful solutions across varied domains.💡</h3>
 
+
+
+
+
+
+
+
+
 - 🌱 **Currently diving into all things tech — from front-end finesse to back-end wizardry 😄**
 
 - 👯 **Open to collaborating with fellow Developers or Engineers on exciting projects and creative experiments**
 
 - 🤝 **Seeking guidance and opportunities in the open-source community — eager to contribute and learn**
 
-- ⚡ **Fun fact When I’m not coding, you’ll find me on the football pitch chasing goals ⚽.**
+- ⚡ **Fun fact When I’m not coding, you’ll find me on the football pitch scoring goals 🤣.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/bah_adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bah_adonis" height="20" width="20" /></a>
   &nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abubakarr-bah-148629234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abubakarr-bah-148629234/" height="20" width="20"/></a>
 &nbsp;
-<a href="https://fb.com/facebook.com/bahdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/bahdev10" height="25" width="25" /></a>
+<a href="https://fb.com/facebook.com/bahdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/bahdev10" height="25" width="25" /></a> -->
    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
+
+<div>
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
 &nbsp;
@@ -54,3 +64,4 @@
 <!-- figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> </a>
 </p>
+ 
