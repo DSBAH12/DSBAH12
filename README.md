@@ -3,11 +3,11 @@
 
 - 🌱 **Currently diving into all things tech — from front-end finesse to back-end wizardry 😄**
 
-- 👯 __Open to collaborating with fellow Developers or Engineers on exciting projects and creative experiments__
+- 👯 **Open to collaborating with fellow Developers or Engineers on exciting projects and creative experiments**
 
 - 🤝 **Seeking guidance and opportunities in the open-source community — eager to contribute and learn**
 
-- ⚡ Fun fact **During my free time, I enjoy playing football ⚽.**
+- ⚡ **Fun fact When I’m not coding, you’ll find me on the football pitch chasing goals ⚽.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
