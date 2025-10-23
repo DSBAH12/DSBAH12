@@ -2,13 +2,6 @@
 <h3 align="center">Creative Software Engineer fueled by a strong enthusiasm for tech, delivering agile and impactful solutions across varied domains.💡</h3>
 
 
-
-
-
-
-
-
-
 - 🌱 **Currently diving into all things tech — from front-end finesse to back-end wizardry 😄**
 
 - 👯 **Open to collaborating with fellow Developers or Engineers on exciting projects and creative experiments**
@@ -17,19 +10,10 @@
 
 - ⚡ **Fun fact When I’m not coding, you’ll find me on the football pitch scoring goals 🤣.**
 
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/bah_adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bah_adonis" height="20" width="20" /></a>
-  &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abubakarr-bah-148629234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abubakarr-bah-148629234/" height="20" width="20"/></a>
-&nbsp;
-<a href="https://fb.com/facebook.com/bahdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/bahdev10" height="25" width="25" /></a> -->
-   
-</p>
 
-<h3>Languages and Tools:</h3>
+  ## <h3>Languages and Tools:</h3>
 
-<div>
+<div>       
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
 &nbsp;
@@ -53,15 +37,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 &nbsp;
 <!-- django -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a>
-&nbsp;
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a>
+&nbsp; -->
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
 &nbsp;
 <!-- version-control -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
+<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 &nbsp;
 <!-- figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> </a>
-</p>
+<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> </a>
+</p> -->
  
