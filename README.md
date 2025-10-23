@@ -11,9 +11,9 @@
 - ⚡ **Fun fact When I’m not coding, you’ll find me on the football pitch scoring goals 🤣.**
 
 
-  ## <h3>Languages and Tools:</h3>
+  <h3>Languages and Tools:</h3>
 
-<div>       
+<div >       
 <!-- HTML -->
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 &nbsp; &nbsp
